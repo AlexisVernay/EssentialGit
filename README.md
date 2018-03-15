@@ -18,4 +18,4 @@ Quelques commandes très pratiques de Git
 * ``` git merge ```
   > Fusionne une branche avec la branche courante
   
-  
+  ![Git logo](git.png)
